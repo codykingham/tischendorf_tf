@@ -1,14 +1,14 @@
 @node
-@Authors=G. Clint Yale Tischendorf and Maurice A. Robinson
+@Author=Constantin von Tischendorf
 @Converter=Cody Kingham
-@Editor=Ulrik Sandborg-Petersen
+@Editors=Ulrik Sandborg-Petersen, G. Clint Yale Tischendorf, and Maurice A. Robinson
 @Name=Morph-GNT Tischendorf
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-01T23:53:48Z
+@dateWritten=2019-07-02T00:17:42Z
 
 1-137711	word
 137712-137738	book
