@@ -1,4 +1,4 @@
-# Tischendorf's 8th Greek New Testament (TF)
+# Tischendorf's 8th Greek New Testament (TF) [![DOI](https://zenodo.org/badge/194737871.svg)](https://zenodo.org/badge/latestdoi/194737871)
 
 ## Credit
 This text corpus is made available by the work of Dr. Ulrik Sandborg-Petersen of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.
