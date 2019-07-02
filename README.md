@@ -1,2 +1,1 @@
-# tischendorf_tf
-Tischendorf's New Testament in Text-Fabric Format
+# Tischendorf's 8th Greek New Testament in Text-Fabric Format
