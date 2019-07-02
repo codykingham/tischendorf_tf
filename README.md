@@ -5,7 +5,7 @@ This text corpus is made available by the work of Dr. Ulrik Sandborg-Petersen of
 
 The conversion to TF is carried out by [Cody Kingham](http://www.codykingham.com).
 
-The [Text-Fabric](https://annotation.github.io/text-fabric/) corpus tool was designed by Dirk Roorda of [DANS](https://dans.knaw.nl/en).
+The [Text-Fabric](https://annotation.github.io/text-fabric/) corpus tool was designed by [Dirk Roorda](https://github.com/dirkroorda) of [DANS](https://dans.knaw.nl/en).
 
 ## Source
 The source data is in the MorphGNT repository [here](https://github.com/morphgnt/tischendorf-data/).
