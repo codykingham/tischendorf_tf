@@ -105,3 +105,6 @@ venv.bak/
 
 # TF Files
 .tfx
+
+# process files
+_temp
