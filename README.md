@@ -3,6 +3,23 @@
 
 <a href="https://en.wikipedia.org/wiki/Constantin_von_Tischendorf"><img src="docs/tischendorf.png"></a>
 
+## Installation
+
+If you have Text-Fabric [installed already](https://annotation.github.io/text-fabric/About/Install/), you can easily access the corpus.
+
+From inside a Python script:
+
+```
+from tf.app import use
+A = use('tisch', hoist=globals()
+```
+
+Or from command line:
+
+```
+text-fabric tisch
+```
+
 ## Credit
 This text corpus is made available by the work of Dr. Ulrik Sandborg-Petersen of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.
 
