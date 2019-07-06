@@ -14,7 +14,7 @@ from tf.app import use
 A = use('tisch', hoist=globals())
 ```
 
-Or from command line:
+Or to launch a TF browse, say this from the command line:
 
 ```
 text-fabric tisch
