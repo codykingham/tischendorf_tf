@@ -1,15 +1,17 @@
 @node
 @Author=Constantin von Tischendorf
 @Converter=Cody Kingham
-@Editors=Ulrik Sandborg-Petersen, G. Clint Yale Tischendorf, and Maurice A. Robinson
+@Editors=Ulrik Sandborg-Petersen, G. Clint Yale, and Maurice A. Robinson
 @Name=Morph-GNT Tischendorf
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
+@dateWritten=2019-07-06T19:24:21Z
 @description=The text as the editor thinks it should have been
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-02T00:17:42Z
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-06T20:29:21Z
 
 Βίβλος
 γενέσεως
