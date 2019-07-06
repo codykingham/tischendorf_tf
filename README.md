@@ -11,7 +11,7 @@ From inside a Jupyter notebook (or Python script):
 
 ```
 from tf.app import use
-A = use('tisch', hoist=globals()
+A = use('tisch', hoist=globals())
 ```
 
 Or from command line:
