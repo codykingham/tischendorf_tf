@@ -7,7 +7,7 @@
 
 If you have Text-Fabric [installed already](https://annotation.github.io/text-fabric/About/Install/), you can easily access the corpus.
 
-From inside a Python script:
+From inside a Jupyter notebook (or Python script):
 
 ```
 from tf.app import use
