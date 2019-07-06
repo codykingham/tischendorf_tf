@@ -1,6 +1,7 @@
 # Tischendorf's 8th Greek New Testament (TF) [![DOI](https://zenodo.org/badge/194737871.svg)](https://zenodo.org/badge/latestdoi/194737871)
 
-<a href="https://en.wikipedia.org/wiki/Constantin_von_Tischendorf" target=”_blank”><img src="docs/tischendorf.png"></a>
+
+<a href="https://en.wikipedia.org/wiki/Constantin_von_Tischendorf"><img src="docs/tischendorf.png"></a>
 
 ## Credit
 This text corpus is made available by the work of Dr. Ulrik Sandborg-Petersen of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.
