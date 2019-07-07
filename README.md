@@ -11,17 +11,17 @@ From inside a Jupyter notebook (or Python script):
 
 ```
 from tf.app import use
-A = use('tisch', hoist=globals()
+A = use('tisch', hoist=globals())
 ```
 
-Or from command line:
+Or to launch a TF browser, say this from the command line:
 
 ```
 text-fabric tisch
 ```
 
 ## Credit
-This text corpus is made available by the work of Dr. Ulrik Sandborg-Petersen of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.
+This text corpus is made available by the work of [Dr. Ulrik Sandborg-Petersen](http://people.hum.aau.dk/~ulrikp/) of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.
 
 The conversion to TF is carried out by [Cody Kingham](http://www.codykingham.com).
 
