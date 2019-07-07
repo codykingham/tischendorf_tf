@@ -6,12 +6,12 @@
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
-@dateWritten=2019-07-06T19:24:21Z
+@dateWritten=2019-07-07T00:12:54Z
 @description=A paragraph number
 @valueType=int
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-06T20:29:21Z
+@dateWritten=2019-07-07T00:17:30Z
 
 138001	1
 2

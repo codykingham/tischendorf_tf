@@ -6,12 +6,12 @@
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
-@dateWritten=2019-07-06T19:24:21Z
+@dateWritten=2019-07-07T00:12:54Z
 @description=Word lemma that corresponds to The NEW Strong'sComplete Dictionary of Bible Words
 @valueType=str
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-06T20:29:21Z
+@dateWritten=2019-07-07T00:17:31Z
 
 βίβλος
 γένεσις

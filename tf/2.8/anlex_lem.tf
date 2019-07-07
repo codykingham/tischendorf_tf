@@ -6,12 +6,12 @@
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
-@dateWritten=2019-07-06T19:24:20Z
+@dateWritten=2019-07-07T00:12:53Z
 @description=Word lemma that corresponds to Friberg, Friberg and Miller's ANLEX
 @valueType=str
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-06T20:29:20Z
+@dateWritten=2019-07-07T00:17:30Z
 
 βίβλος
 γένεσις

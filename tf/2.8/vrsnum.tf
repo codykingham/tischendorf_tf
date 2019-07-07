@@ -6,12 +6,12 @@
 @Note=Feature descriptions adapted from tischendorf-data README
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
-@dateWritten=2019-07-06T19:24:22Z
+@dateWritten=2019-07-07T00:12:55Z
 @description=N-word in verse
 @valueType=str
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-06T20:29:22Z
+@dateWritten=2019-07-07T00:17:31Z
 
 1
 2
