@@ -7,7 +7,7 @@
 @Source:=https://github.com/morphgnt/tischendorf-data/
 @Version=2.8
 @dateWritten=2019-07-07T00:12:54Z
-@description=Word morphological tag based on Maurice A Robinson's analysis
+@description=the original morphology distinguished between two different interrogative pronouns, that distinction is found in originterrdiff
 @valueType=str
 @writtenBy=Text-Fabric
 @extractedAndcomposedBy=Oliver Glanz
