@@ -11,14 +11,17 @@ From inside a Jupyter notebook (or Python script):
 
 ```
 from tf.app import use
-A = use('tisch', hoist=globals())
+A = use('codykingham/tisch', hoist=globals())
 ```
 
 Or to launch a TF browser, say this from the command line:
 
 ```
-text-fabric tisch
+text-fabric codykingham/tisch
 ```
+
+Continue with the
+[tutorial](https://nbviewer.jupyter.org/github/codykingham/tischendorf_tf/blob/master/tutorial/start.ipynb).
 
 ## Credit
 This text corpus is made available by the work of [Dr. Ulrik Sandborg-Petersen](http://people.hum.aau.dk/~ulrikp/) of Scripture Systems Aps, Denmark with help from G. Clint Yale and Dr. Maurice A. Robinson.

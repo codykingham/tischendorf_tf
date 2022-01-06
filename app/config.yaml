@@ -1,0 +1,38 @@
+apiVersion: 3
+dataDisplay:
+  noneValues: # to revisit
+  - none
+  - unknown
+  - null
+  - NA
+typeDisplay:
+  book:
+    featuresBare:
+      - book_code
+  lex:
+    featuresBare: gloss
+    features:
+      str_lem
+    lexOcc: word
+    template: '{anlex_lem}'
+    label: '{anlex_lem}'
+    style: orig
+  word:
+    featuresBare:
+      - gloss
+    features:
+      - ketiv
+      - qere
+      - strongs
+docs:
+  docPage: features
+  featureBase: "{docBase}/features.md#<feature>"
+  featurePage: features
+interfaceDefaults: {}
+provenanceSpec:
+  charText: 'Greek characters transcription'
+  charUrl: '{docBase}/features{docExt}'
+  corpus: "Tischendorf's 8th New Testament"
+  doi: 10.5281/zenodo.3265458
+  version: 2.8
+writing: grc
